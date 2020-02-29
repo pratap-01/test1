@@ -1,3 +1,1 @@
-hi
-there
 binary bag
